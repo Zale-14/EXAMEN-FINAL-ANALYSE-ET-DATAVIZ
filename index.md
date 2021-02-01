@@ -4,9 +4,11 @@ Nous avons téléchargé notre jeu de données sur https://www.data.gouv.fr/fr/ 
 cette visualisation ci-dessous est une représentation des données hospitalières liées à la pandémie Covid-19 dans la région Auvergne-Rhône-Alpes. Pour les besoins de cette visualisation nous avons filtré les données de sorte à pouvoir représenter le nombre total de décès, les  personnes admises en soins intensifs, le code postal de la région. L'analyse 
 <iframe title="[ Diagramme à plusieurs tartes ]" aria-label="chart" id="datawrapper-chart-Mhp7j" src="https://datawrapper.dwcdn.net/Mhp7j/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-#### Visualisation de données n°2 avec datawrpper
-<iframe title="[ courbes sur les données hommes ]" aria-label="Interactive line chart" id="datawrapper-chart-2KHSQ" src="https://datawrapper.dwcdn.net/2KHSQ/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
-##### Visualisation de données avec n°3 avec OpenRefine
+#### Visualisation de données n°2 avec datawrapper
+<iframe title="[ Diagramme à plusieurs tartes ]" aria-label="chart" id="datawrapper-chart-Mhp7j" src="https://datawrapper.dwcdn.net/Mhp7j/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="479"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+##### Visualisation de données avec n°3 avec datawrapper
+<iframe title="[ Insert title here ]" aria-label="Interactive area chart" id="datawrapper-chart-r7ErP" src="https://datawrapper.dwcdn.net/r7ErP/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="349"></iframe>
 <div class="flourish-embed flourish-chart" data-src="visualisation/5153820"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
