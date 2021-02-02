@@ -8,7 +8,7 @@ cette visualisation ci-dessous est une représentation des données hospitalièr
 <iframe title="[ courbes sur les données hommes ]" aria-label="Interactive line chart" id="datawrapper-chart-LoKZM" src="https://datawrapper.dwcdn.net/LoKZM/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
 
 ##### Visualisation de données avec n°3 avec datawrapper
-<iframe title="[Graphique de zone ]" aria-label="Interactive area chart" id="datawrapper-chart-8nO18" src="https://datawrapper.dwcdn.net/8nO18/1/" scrolling="no" frameborder="0" style="border: none;" width="400" height="400"></iframe>
+<iframe title="[ Graphique de zone  ]" aria-label="Interactive area chart" id="datawrapper-chart-fgWtY" src="https://datawrapper.dwcdn.net/fgWtY/1/" scrolling="no" frameborder="0" style="border: none;" width="320" height="433"></iframe>
 
 
 
